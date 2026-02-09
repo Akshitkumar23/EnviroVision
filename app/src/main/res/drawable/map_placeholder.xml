@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="400dp"
+    android:height="200dp"
+    android:viewportWidth="400"
+    android:viewportHeight="200">
+
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M0,0h400v200h-400z" />
+
+    <path
+        android:fillColor="#C5E1A5"
+        android:pathData="M100,50 Q150,20 200,60 T300,50 V150 H100z" />
+
+    <path
+        android:strokeColor="#A5D6A7"
+        android:strokeWidth="2"
+        android:pathData="M50,180 L150,120 M200,160 L250,100 M300,180 L350,140" />
+
+    <!-- Red Pin -->
+    <path
+        android:fillColor="#EF5350"
+        android:pathData="M150,80 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0" />
+
+    <!-- Green Pin -->
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M250,120 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0" />
+
+</vector>

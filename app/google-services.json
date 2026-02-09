@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "816901144232",
+    "project_id": "envirovision-9e262",
+    "storage_bucket": "envirovision-9e262.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816901144232:android:3c35e1ca0468960ca78c9d",
+        "android_client_info": {
+          "package_name": "com.example.wastemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816901144232-ks2h0q4hc92jd3s50n2fdtk9shq7nndl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wastemanagement",
+            "certificate_hash": "83980ea4577af0571b3f8256274364b37649c4d1"
+          }
+        },
+        {
+          "client_id": "816901144232-q7sb3n8hneg9p5fei2ftpbpq4ppai7m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5fkIQAoxWyfHoc-oX9-1wyF6xipp9U9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816901144232-q7sb3n8hneg9p5fei2ftpbpq4ppai7m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

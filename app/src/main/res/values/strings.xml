@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EnviroVision</string>
+    <string name="edit_incident">Edit Incident</string>
+    <string name="report_new_incident">Report New Incident</string>
+    <string name="back">Back</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="submit">Submit</string>
+    <string name="description">Description</string>
+    <string name="select_location">Select Location (Drag Marker)</string>
+    <string name="location_permission_needed">Location permission is needed to show the map.</string>
+    <string name="add_images">Add Images</string>
+    <string name="default_web_client_id">816901144232-q7sb3n8hneg9p5fei2ftpbpq4ppai7m4.apps.googleusercontent.com</string>
+</resources>
