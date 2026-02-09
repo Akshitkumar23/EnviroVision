@@ -34,7 +34,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBAg4b05x_DlPOEw5x4LNHQuG5P79uffKI" />
+            android:value="S" />
 
         <!-- FileProvider for camera -->
         <provider
